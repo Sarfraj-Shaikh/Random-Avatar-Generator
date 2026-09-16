@@ -2,6 +2,8 @@
 
 A clean, responsive, and modern React web application built with **TypeScript**, **Tailwind CSS**, and **Remix Icon** that allows users to seamlessly generate and download unique avatars for profile pictures, social media, or web projects.
 
+<img width="1920" height="988" alt="screencapture-localhost-5173-2026-09-16-17_46_27" src="https://github.com/user-attachments/assets/1fba72ab-2f1b-4a18-8bfd-5035b22fb398" />
+
 ---
 
 ## ✨ Features
@@ -45,3 +47,7 @@ Follow these steps to run the application locally on your machine:
    ```bash
    cd Random-Avatar-Generator
    ```
+   
+   ---
+
+   [screencapture-localhost-5173-2026-09-16-17_46_27.pdf](https://github.com/user-attachments/files/32287011/screencapture-localhost-5173-2026-09-16-17_46_27.pdf)
